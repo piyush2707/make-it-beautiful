@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">Make It Beautiful</title>
+  <desc id="desc">A refined interface concept illustrating a basic layout becoming a polished website.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080f1c"/><stop offset="1" stop-color="#171e3c"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#4f7cff"/><stop offset="1" stop-color="#bd63f5"/></linearGradient>
+  </defs>
+  <rect width="1200" height="520" rx="24" fill="url(#background)"/>
+  <circle cx="1100" cy="35" r="210" fill="#5e4bcb" opacity=".13"/><circle cx="40" cy="500" r="180" fill="#3b82f6" opacity=".08"/>
+  <text x="62" y="70" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">A DESIGN-MINDED CODING SKILL</text>
+  <text x="58" y="142" fill="#f8fafc" font-family="Arial,sans-serif" font-size="59" font-weight="700">Make It <tspan fill="#a78bfa">Beautiful.</tspan></text>
+  <text x="62" y="184" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="22">Better websites. Happier users.</text>
+  <text x="62" y="230" fill="#94a3b8" font-family="Arial,sans-serif" font-size="17">For Claude Code and OpenAI Codex</text>
+  <rect x="62" y="272" width="445" height="52" rx="12" fill="#111c31" stroke="#334155"/><text x="84" y="303" fill="#e2e8f0" font-family="Arial,sans-serif" font-size="16">Inspect · Prioritize · Implement · Verify</text>
+  <rect x="62" y="352" width="445" height="110" rx="14" fill="#0e1728" stroke="#25344d"/><text x="84" y="379" fill="#94a3b8" font-family="monospace" font-size="13">THE DESIGN PRINCIPLE</text><text x="84" y="410" fill="#f8fafc" font-family="Arial,sans-serif" font-size="21" font-weight="600">Clarity before decoration.</text><text x="84" y="437" fill="#94a3b8" font-family="Arial,sans-serif" font-size="15">Keep what works. Improve what matters.</text>
+  <rect x="565" y="65" width="575" height="397" rx="20" fill="#0c1424" stroke="#334155" stroke-width="2"/><rect x="583" y="83" width="539" height="36" rx="9" fill="#172238"/><circle cx="603" cy="101" r="4" fill="#fb7185"/><circle cx="619" cy="101" r="4" fill="#fbbf24"/><circle cx="635" cy="101" r="4" fill="#34d399"/>
+  <rect x="602" y="140" width="500" height="300" rx="12" fill="#111d32"/><text x="626" y="169" fill="#a5b4fc" font-family="Arial,sans-serif" font-size="12">BEFORE</text>
+  <rect x="620" y="183" width="220" height="235" rx="8" fill="#e5e7eb"/><rect x="634" y="198" width="75" height="7" rx="3" fill="#9ca3af"/><rect x="634" y="229" width="156" height="16" rx="3" fill="#9ca3af"/><rect x="634" y="255" width="128" height="7" rx="3" fill="#cbd5e1"/><rect x="634" y="271" width="145" height="7" rx="3" fill="#cbd5e1"/><rect x="634" y="303" width="80" height="26" rx="6" fill="#9ca3af"/><rect x="634" y="349" width="184" height="48" rx="5" fill="#d1d5db"/>
+  <path d="M850 288 H875 M866 278 L876 288 L866 298" stroke="#a5b4fc" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="895" y="169" fill="#c4b5fd" font-family="Arial,sans-serif" font-size="12">AFTER</text><rect x="890" y="183" width="212" height="235" rx="8" fill="#080f1d" stroke="#6d5ce8"/><text x="908" y="211" fill="#f8fafc" font-family="Arial,sans-serif" font-size="11">STUDIO / DIGITAL</text><text x="908" y="250" fill="#ffffff" font-family="Arial,sans-serif" font-size="20" font-weight="700">Make space</text><text x="908" y="273" fill="#ffffff" font-family="Arial,sans-serif" font-size="20" font-weight="700">for good ideas.</text><text x="908" y="299" fill="#94a3b8" font-family="Arial,sans-serif" font-size="10">Clear message. Thoughtful details.</text><rect x="908" y="316" width="84" height="26" rx="13" fill="url(#accent)"/><text x="921" y="333" fill="#ffffff" font-family="Arial,sans-serif" font-size="10">Get started</text><circle cx="1050" cy="377" r="24" fill="#5b5ce2" opacity=".35"/><circle cx="1032" cy="366" r="17" fill="#a78bfa" opacity=".65"/><circle cx="1066" cy="363" r="11" fill="#60a5fa" opacity=".7"/>
+</svg>
