@@ -72,7 +72,7 @@ Other ideas:
 
 ## The workflow
 
-![Inspect, prioritize, implement, verify](assets/workflow.svg)
+![Inspect, prioritize, implement, verify](workflow.svg)
 
 1. **Inspect** the actual page, components, styles, and project conventions.
 2. **Prioritize** the highest-impact issues before changing code.
