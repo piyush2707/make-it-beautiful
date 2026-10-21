@@ -69,7 +69,6 @@ Other ideas:
 - Review this form's labels, validation, focus states, and error messages.
 - Don't edit yet. Identify the five highest-impact design improvements, ranked by impact and effort.
 
-More prompts: [examples/prompt-examples.md](examples/prompt-examples.md)
 
 ## The workflow
 
