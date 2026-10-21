@@ -10,7 +10,7 @@ Turn “it works” into “this feels right.”
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-supported-7c3aed)](#installation)
 [![Codex](https://img.shields.io/badge/Codex-supported-2563eb)](#installation)
 
-![Make It Beautiful](assets/hero.svg)
+![Make It Beautiful](hero.svg)
 
 **Better websites. Happier users.**
 
